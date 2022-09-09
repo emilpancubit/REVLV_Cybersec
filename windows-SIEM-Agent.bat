@@ -1,0 +1,1 @@
+wazuh-agent-4.3.7-1.msi /q WAZUH_MANAGER="27.110.173.131"
